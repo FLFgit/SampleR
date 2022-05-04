@@ -1,11 +1,11 @@
 # SampleR
 Function for conditional Latin HyperCube Sampling (sLCHS)
 
-## Parameter
+| Parameter | Meaning | 
+| --------|-------|
+| POT.FILE|  | 
+| IN.DIR  |  |
+| IN.EPSG | |
+| PON.FILE | |
+| SN | |
 
-| POT.FILE | |
-| IN.DIR   |   |
-IN.EPSG  |
-PON.FILE
-OUT.DIR
-SN
