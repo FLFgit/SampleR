@@ -1,2 +1,2 @@
 # SampleR
-condiational Latin Hypercube Sampling
+conditional Latin HyperCube Sampling (sLCHS)
